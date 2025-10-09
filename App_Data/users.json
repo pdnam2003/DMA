@@ -1,0 +1,26 @@
+[
+  {
+    "Username": "123",
+    "Password": "123",
+    "Phone": "1234565789",
+    "Verified": true
+  },
+  {
+    "Username": "456",
+    "Password": "456",
+    "Phone": "1234565789",
+    "Verified": false
+  },
+  {
+    "Username": "as",
+    "Password": "123",
+    "Phone": "012",
+    "Verified": false
+  },
+  {
+    "Username": "567",
+    "Password": "567",
+    "Phone": "032",
+    "Verified": false
+  }
+]
